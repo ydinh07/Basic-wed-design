@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f0f4f8;
+}
+
+
+h1 {
+    background-color: #ffb6c1; 
+    color: #2f6fed;           
+    margin: 0;
+    padding: 20px;
+    font-size: 40px;
+}
+
+/* Căn lề khoảng cách cho các nút bấm */
+a {
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+/* Định dạng hình dáng nút bấm */
+button {
+    background-color: #2f6fed; /* Nền xanh */
+    color: white;             /* Chữ trắng */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;       /* Bo tròn góc */
+    cursor: pointer;
+}
+
+/* Định dạng các đoạn văn bản hiển thị phía dưới */
+p {
+    font-size: 18px;
+    margin: 15px 0;
+}

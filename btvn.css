@@ -1,0 +1,16 @@
+h1 { 
+   text-align: center;
+    color: blue;
+    font-size: 70px;
+     background-color:crimson;
+}
+
+tr:hover{
+    background-color: blueviolet;
+}
+div { 
+   text-align: left;
+    color: chocolate;
+    font-size: 40px;
+    
+}
